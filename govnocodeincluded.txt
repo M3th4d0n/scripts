@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "steam_id": "76561199367766044",
+            "role": "Admin",
+            "status": "Online"
+        },
+        {
+            "steam_id": "76561199212345678",
+            "role": "Member",
+            "status": "Offline"
+        },
+        {
+            "steam_id": "76561199123456789",
+            "role": "Moderator",
+            "status": "Online"
+        }
+    ]
+}
